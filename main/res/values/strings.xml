@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyGallery</string>
+    <string name="placeholder">placeholder</string>
+    <string name="view_pager_description">Image Viewer</string>
+</resources>
